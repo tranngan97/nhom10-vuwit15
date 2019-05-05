@@ -11,7 +11,7 @@ import java.io.File;
 
 /**
  *
- * @author Nguyen Hiep
+ * 
  */
 public class QuanLyCuaHang {
 
