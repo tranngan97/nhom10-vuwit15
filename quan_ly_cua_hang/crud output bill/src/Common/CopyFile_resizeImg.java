@@ -19,7 +19,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author Nguyen Hiep
+ * 
  */
 public class CopyFile_resizeImg {
 

@@ -20,7 +20,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Hiep
+ * 
  */
 public class Manage_storage_CONTROLLER {
 
