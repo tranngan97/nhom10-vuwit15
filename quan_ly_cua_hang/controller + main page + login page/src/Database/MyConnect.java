@@ -19,7 +19,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Nguyen Hiep
+ * 
  */
 public class MyConnect {
 
