@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nguyen Hie
+ 
  */
 public class Input_bill implements CRUD {
 
